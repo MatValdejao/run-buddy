@@ -12,3 +12,5 @@ https://matvaldejao.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Mateus Valdejao
+
+### ©️2019 Run Buddy, Inc 
